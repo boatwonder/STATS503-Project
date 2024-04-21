@@ -1,2 +1,3 @@
-# STATS503-Project
-Feel free to add your files here
+#Lasso, Linear and Logistic Regression
+
+
