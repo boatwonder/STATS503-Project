@@ -1,4 +1,4 @@
-##STATS 503 Final Project
+STATS 503 Final Project
 
 #Variable selection
 
