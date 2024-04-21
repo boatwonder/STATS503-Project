@@ -1,6 +1,6 @@
 # STATS 503 Final Project
 
-## How to run the results in Variable Selection section
+## How to run the results in Lasso regression with cross-validation and logistic regression
 
 Read the nhanes.csv file in the main branch using the code in VariableSelection.ipynb. 
 
