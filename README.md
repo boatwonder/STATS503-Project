@@ -1,3 +1,3 @@
-#Lasso, Linear and Logistic Regression
+#STATS 503 Final Project
 
 
