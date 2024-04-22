@@ -1,5 +1,8 @@
 # STATS 503 Final Project
 
+## R code for data collection and data cleaning
+Run the NHANES_R.ipynb file to obtain the NHANES data set in csv format and feather format.
+
 ## How to run the results in Lasso regression with cross-validation and logistic regression
 
 Read the nhanes.csv file in the main branch using the code in VariableSelection.ipynb. 
